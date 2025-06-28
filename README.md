@@ -2,7 +2,6 @@
 
 A powerful and multifunctional digital investigation toolkit built with Python. This desktop application provides various tools for reconnaissance, data analysis, and automation, all wrapped in a modern, tabbed graphical user interface (GUI).
 
-![OSINT-Suite Screenshot](https://i.imgur.com/jGg2mJc.png) 
 
 ## 🌟 Features
 
