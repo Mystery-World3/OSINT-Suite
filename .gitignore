@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+
+# PyInstaller files
+build/
+dist/
+*.spec
+
+# External Dependencies 
+chromedriver-win64/
+chromedriver.exe
+
+# Test Output & Sample Files 
+*.png
+*.gif
+*.xlsx
+*.mp4
+*.json
+*.csv

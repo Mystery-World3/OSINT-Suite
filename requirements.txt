@@ -1,0 +1,12 @@
+requests
+beautifulsoup4
+lxml
+python-whois
+colorama
+Pillow
+PyPDF2
+selenium
+pandas 
+lxml 
+openpyxl
+customtkinter 
