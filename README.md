@@ -1,4 +1,4 @@
-# OSINT-Suite v4.0 - The Professional Edition
+# OSINT-Suite v4.0 
 
 A powerful and multifunctional digital investigation toolkit built with Python. This desktop application provides various tools for reconnaissance, data analysis, and automation, all wrapped in a modern, tabbed graphical user interface (GUI).
 
